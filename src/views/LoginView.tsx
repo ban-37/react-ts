@@ -40,7 +40,7 @@ function LoginView() {
     <div className="bg">
       <div className="loginBox">
         <h2>
-          <span className="primary">快团团</span>登录
+          <span className="primary">完美世界</span>登录
         </h2>
         <Form
           name="basic"
